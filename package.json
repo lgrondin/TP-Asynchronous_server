@@ -5,5 +5,11 @@
   "dependencies": {
     "mocha": "^3.1.1",
     "should": "^11.1.0"
+
+  },
+  "script" : {
+    "test" : "bin/test"
   }
+
+
 }
