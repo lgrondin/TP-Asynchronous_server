@@ -8,7 +8,7 @@
 
   },
   "script" : {
-    "test" : "bin/test"
+    "test" : "./bin/test"
   }
 
 
