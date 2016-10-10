@@ -7,8 +7,8 @@
     "should": "^11.1.0"
 
   },
-  "script" : {
-    "test" : "./bin/test"
+  "scripts" : {
+    "test" : "bin/test"
   }
 
 
